@@ -88,11 +88,7 @@ const Home: NextPage = () => {
           gap: 2,
         }}
       >
-        <img
-          src="https://ecs7.tokopedia.net/assets-tokopedia-lite/v2/zeus/production/e5b8438b.svg"
-          alt="logo"
-          width="20%"
-        />
+        <img src="/dmp.png" alt="logo" width="20%" />
         <Divider orientation="vertical" />
         <TextField
           label="Cari Rumah ..."
