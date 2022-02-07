@@ -101,7 +101,7 @@ const Home: NextPage = () => {
           }}
         />
         <Divider orientation="vertical" />
-        <Stack direction={"vertical"}>
+        <Stack direction={"row"}>
           <IconButton>
             <AccountCircle />
           </IconButton>
